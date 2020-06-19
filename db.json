@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Achref",
+      "alamat": "Tunis",
+      "umur": 26,
+      "nohp": "08574195842312"
+    },
+    {
+      "id": 2,
+      "nama": "Salim",
+      "alamat": "Tunis",
+      "umur": 27,
+      "nohp": "08574195842312"
+    },
+    {
+      "id": 3,
+      "nama": "Soltan",
+      "alamat": "Tunis",
+      "umur": 26,
+      "nohp": "08574195842312"
+    }
+  ]
+}
